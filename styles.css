@@ -1,0 +1,18 @@
+.sub-header {
+  text-align: center;
+}
+
+.sub-header-image {
+  width: 640px; height: auto;
+}
+
+.sub-header-title {
+  margin-top: 10px;
+  font-size: 50px;
+  color: orange;
+}
+
+.ingredients,
+.steps {
+  margin-left: 30px;
+}
