@@ -14,5 +14,11 @@
 
 .ingredients,
 .steps {
+  display: inline;
+  float: left;
+  margin-left: 35%;
+}
+
+.steps {
   margin-left: 30px;
 }
